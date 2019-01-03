@@ -1,0 +1,12 @@
+C:\Users\ladie\source\repos\TweetMVVM\TweetMVVM\TweetMVVM\bin\Debug\netstandard2.0\TweetMVVM.deps.json
+C:\Users\ladie\source\repos\TweetMVVM\TweetMVVM\TweetMVVM\bin\Debug\netstandard2.0\TweetMVVM.dll
+C:\Users\ladie\source\repos\TweetMVVM\TweetMVVM\TweetMVVM\bin\Debug\netstandard2.0\TweetMVVM.pdb
+C:\Users\ladie\source\repos\TweetMVVM\TweetMVVM\TweetMVVM\obj\Debug\netstandard2.0\TweetMVVM.csprojAssemblyReference.cache
+C:\Users\ladie\source\repos\TweetMVVM\TweetMVVM\TweetMVVM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ladie\source\repos\TweetMVVM\TweetMVVM\TweetMVVM\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ladie\source\repos\TweetMVVM\TweetMVVM\TweetMVVM\obj\Debug\netstandard2.0\TweetMVVM.csproj.CoreCompileInputs.cache
+C:\Users\ladie\source\repos\TweetMVVM\TweetMVVM\TweetMVVM\obj\Debug\netstandard2.0\TweetMVVM.AssemblyInfoInputs.cache
+C:\Users\ladie\source\repos\TweetMVVM\TweetMVVM\TweetMVVM\obj\Debug\netstandard2.0\TweetMVVM.AssemblyInfo.cs
+C:\Users\ladie\source\repos\TweetMVVM\TweetMVVM\TweetMVVM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ladie\source\repos\TweetMVVM\TweetMVVM\TweetMVVM\obj\Debug\netstandard2.0\TweetMVVM.dll
+C:\Users\ladie\source\repos\TweetMVVM\TweetMVVM\TweetMVVM\obj\Debug\netstandard2.0\TweetMVVM.pdb
